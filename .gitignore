@@ -10,12 +10,12 @@ _site
 node_modules
 
 /scripts
-/apps/build
+#/apps/build
 # Dont commit compressed images
-/assets/img
+#/assets/img
 
 # /css, /fonts and /js are distribution files
-/css
-/fonts
-/js
+#/css
+#/fonts
+#/js
 /contents/testing
